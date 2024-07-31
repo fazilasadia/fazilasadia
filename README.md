@@ -13,4 +13,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazilasadia&show_icons=true&locale=en" alt="fazilasadia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazilasadia&show_icons=true&theme=merko&locale=en" alt="fazilasadia" /></p>
