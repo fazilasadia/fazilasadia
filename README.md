@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fazila Sadia</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazilasadia&label=Profile%20views&color=0e75b6&style=flat" alt="fazilasadia" /> </p>
 
-<!--
-**fazilasadia/fazilasadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **SQL and Power BI**
 
-Here are some ideas to get you started:
+- 📝 I regularly write articles on [vistales.github.io/vistales](vistales.github.io/vistales)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Quarto blogs**
+
+- 📫 How to reach me **fazila.sadia@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazilasadia&show_icons=true&locale=en" alt="fazilasadia" /></p>
