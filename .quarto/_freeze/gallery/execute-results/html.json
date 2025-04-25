@@ -1,0 +1,15 @@
+{
+  "hash": "5d02ca0421bc5d9e65cae7fd5b82db04",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Image Gallery Viewer\"\nformat:\n  html:\n    embed-resources: true\n    toc: false\n    css: style.css\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n<div class=\"gallery-container\">\n\n\n\n::: {.cell}\n\n:::\n\n\n\n\n<!-- Modal for enlarged image -->\n<div id=\"myModal\" class=\"modal\" onclick=\"this.style.display='none'\">\n  <span class=\"close\">&times;</span>\n  <img class=\"modal-content\" id=\"modalImage\">\n</div>\n\n<script>\nfunction openModal(src) {\n  const modal = document.getElementById(\"myModal\");\n  const modalImg = document.getElementById(\"modalImage\");\n  modal.style.display = \"block\";\n  modalImg.src = src;\n}\n\n// Close when clicking X or outside image\ndocument.querySelector('.close').addEventListener('click', function() {\n  document.getElementById('myModal').style.display = 'none';\n});\n</script>",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

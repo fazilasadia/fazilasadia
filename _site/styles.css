@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "cd";
+  src: url('canb.ttf') format('truetype'); /* Ensure the path and format are correct */
+}
+
+
+
+/* Apply the gradient animation to the body */
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Georgia, Sans-Serif;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+.container {
+  position: relative;
+  width: 100%;
+  top: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.text {
+  font-size: 12vw;
+  font-weight: bold;
+  font-family: cd;
+  color: black;
+  position: absolute;
+
+}
+
+
+.mini {
+  font-family: Garamond;
+  font-size: 2.5vw;
+  font-weight: bold;
+  color: black;
+  position: relative;
+  top: 200px;
+  text-align: justify-content;
+}
+
+
+
+.grid {
+  font-family: Arial;
+  font-size: 2vw;
+  font-weight: light;
+  color: black;
+  position: relative;
+  top: 380px;
+  text-align: justify-content;
+}
+
+
+
+
+/* navbar */.navbar-title {  font-family: Sans-Serif;}
+
+.navbar-dark .navbar-brand {
+  text-align: right;
+  color: black;
+}
+
+
+.navbar-nav{
+  margin-right: 50px;
+  margin-left: 50px;
+  color: black;
+  
+  /* Adjust the value as needed */
+}
+
+.navbar-nav .nav-item{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+  font-family: Georgia, serif;
+  font-size: 20px;
+} 
+
+.card {
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+  background-color: #fafafa;
+}
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.grid {
+  display: grid;
+  margin-bottom: 100px; /* Space at bottom */
+}
+.grid-cols-3 {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+.gap-4 {
+  gap: 6rem;
+}
+.mt-5 {
+  margin-top: 2rem;
+}
+.px-5 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 4rem;
+}
+
+
+
+.footer {
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  font-family: Georgia, serif;
+}
+
+.page-footer-title {
+  font-family: Sans-Serif;
+}

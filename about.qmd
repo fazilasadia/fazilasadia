@@ -1,0 +1,26 @@
+---
+title:  <p class="center-text">Contact</p>
+sidebar: false
+page-layout: full
+toc: false
+---
+
+- **LinkedIn:** [Fazila Sadia](linkedin.com/in/fazilasadia)
+
+- **Github:** [Fazila Sadia](https://github.com/fazilasadia)
+
+- **Email:** fazila.sadia@gmail.com
+
+
+<style>
+
+
+.center-text {
+  text-align: center;
+  font-size: 38px;
+  font-weight: bold;
+  color: black;
+  font-family: Helvetica;
+}
+
+</style>

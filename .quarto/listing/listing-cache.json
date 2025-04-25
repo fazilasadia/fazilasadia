@@ -1,0 +1,21 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "**/index.qmd",
+      "forblog/posts",
+      "bitsandbobs/posts",
+      "Blog.qmd",
+      "People.qmd",
+      "Publications.qmd",
+      "Books.qmd",
+      "Courses.qmd",
+      "Opportunities.qmd",
+      "Fun.qmd",
+      "front_page/front_page.yaml",
+      "_quarto.yml"
+    ],
+    "gallery.qmd": [
+      "gallery.yml"
+    ]
+  }
+}

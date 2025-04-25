@@ -1,0 +1,33 @@
+project:
+  type: website
+website:
+
+  navbar:
+    background: "transparent"
+    foreground: "black"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Contact
+      - href: gallery.qmd
+        text: Gallery
+  page-footer: 
+    background: "transparent"
+    foreground: "black"
+    left: "Copyright 2025" 
+    right: 
+      - icon: linkedin
+        href: linkedin.com/in/fazilasadia
+      - icon: github 
+        href: https://github.com/fazilasadia
+      - icon: email
+        href: fazila.sadia@gmail.com     
+
+format:
+  html:
+    #theme: mint
+    css: styles.css
+    toc: false
+    include-in-header: my-header-scripts.html
+    include-after-body: my-footer-scripts.html

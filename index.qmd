@@ -1,0 +1,43 @@
+---
+page-layout: full
+listing:
+  - id: landing-bits
+    contents: _quarto.yml
+    sort: "order"
+    type: grid
+    grid-columns: 4
+    categories: false
+    image-align: 'right'
+    image-height: '100%'
+format: 
+  html:
+    link-external-newwindow: true
+    css: styles.css
+embed-resources: true
+---
+
+::::: container
+::: {#combined .text}
+Fazila Sadia
+:::
+
+::: {#mini .mini}
+Data Visualization and Information Design
+:::
+:::::
+
+
+::: {.grid .grid-cols-3 .gap-4 .mt-5 .px-5}
+
+
+::: {.card .shadow}
+[![Gallery](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsbflHQo6046Au1rdtwzjeX31sGbnZiNC2b5tmEW16aWMNLy69JT11EnXV7DFJSO9Zus&usqp=CAU)](gallery.qmd)
+**Visualization Gallery**
+:::
+
+::: {.card .shadow}
+[![External](https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/websites/websites-vistales.png?raw=true)](https://vistales.github.io/vistales){target=_blank}
+**Vistales Website**
+:::
+
+:::

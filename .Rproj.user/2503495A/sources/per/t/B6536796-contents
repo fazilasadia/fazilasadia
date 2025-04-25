@@ -1,0 +1,18 @@
+---
+page-layout: full
+format: 
+  html:
+    link-external-newwindow: true
+    css: styles.css
+embed-resources: true
+---
+
+::::: container
+::: {#combined .text}
+Fazila Sadia
+:::
+
+::: {#after .mini}
+Data Visualization and Information Design
+:::
+:::::
