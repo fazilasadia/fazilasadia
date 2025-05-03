@@ -1,5 +1,6 @@
 project:
   type: website
+  
 website:
 
   navbar:
@@ -26,7 +27,6 @@ website:
 
 format:
   html:
-    #theme: mint
     css: styles.css
     toc: false
     include-in-header: my-header-scripts.html

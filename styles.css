@@ -3,15 +3,14 @@
   src: url('canb.ttf') format('truetype'); /* Ensure the path and format are correct */
 }
 
-
-
-/* Apply the gradient animation to the body */
 body {
   margin: 0;
   height: 100vh;
   font-family: Georgia, Sans-Serif;
   justify-content: center;
   align-items: center;
+  color: beige;
+  background-color: pink;
   
 }
 
@@ -23,7 +22,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: transparent;
+  background-color: blue;
 }
 
 .text {
@@ -80,7 +79,7 @@ body {
 .navbar-nav .nav-item{
   padding-left: 10px;
   padding-right: 10px;
-  color: black;
+  color: blue;
   font-family: Georgia, serif;
   font-size: 20px;
 } 
