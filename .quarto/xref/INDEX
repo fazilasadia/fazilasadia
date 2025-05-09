@@ -28,5 +28,11 @@
   },
   "cc/index.qmd": {
     "index.html": "cbda3d07"
+  },
+  "cc/hello.qmd": {
+    "hello.html": "c50d3a07"
+  },
+  "library/hello.qmd": {
+    "hello.html": "0aa1cfa1"
   }
 }

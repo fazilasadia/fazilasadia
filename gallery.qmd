@@ -6,3 +6,207 @@ format:
     css: style.css
 embed-resources: true
 ---
+<<<<<<< Updated upstream
+=======
+```{=html}
+
+<main>
+        <div class="page-header">
+            <span class="main-title">30<wbr>Day<wbr>Chart<wbr>Challenge</span>
+            <span class="sub-title"><span class="gradient-year">Gallery ✴ 2025</span>
+        </div>
+
+
+        <div class="gallery-container">
+
+            <div class="main-image-container">
+                <img id="mainImage"
+                     src="https://placehold.co/800x600/cccccc/666666?text=Image+1"
+                     alt="Main display image"
+                     onerror="this.onerror=null; this.src='https://placehold.co/800x600/f87171/ffffff?text=Error+Loading';">
+            </div>
+
+            <div id="museumCard" class="museum-card">
+                <p><strong id="cardAuthor">Author Name</strong>, 2025</p>
+                <p id="cardTitle">Image Title</p>
+                <p id="cardDims">Dimensions</p>
+                <p id="cardInfo">Extra Info</p>
+                <p id="cardLinkParagraph" class="link-paragraph" style="display: none;"> <a id="cardLink" href="#" target="_blank" rel="noopener noreferrer">
+                        <span class="material-symbols-outlined">link</span> <span id="cardLinkText">R Code</span>
+                    </a>
+                </p>
+            </div>
+
+            <div class="thumbnail-groups-container">
+
+                <div class="thumbnail-row">
+                    <span class="week-label">Comparisons</span>
+                    <div class="thumbnail-group-scroll">
+                        
+                        <div class="thumbnail-item">
+                            <span class="title">02. Slope</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/02.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail thumbnail-active" onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/02.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="02. Slope"
+                                 
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/02.twb">
+                         </div>
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">03. Circular</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/03.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail"
+                                 onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/03.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="03. Circular"
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/03.R">
+                         </div>
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">04. Big or Small</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/04.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail"
+                                 onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/04.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="04. Big or SMall"
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/04.R">
+                         </div>
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">05. Ranks</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/05.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail"
+                                 onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/05.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="05. Ranking"
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/05.R">
+                         </div>
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">06. Florence Nightingale</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/06.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail"
+                                 onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/06.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="06. Florence Nightingale"
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/06.R">
+                         </div>
+
+       </div>
+                  </div>
+
+<div class="thumbnail-row">
+                    <span class="week-label">Distributions</span>
+                    <div class="thumbnail-group-scroll">
+                        
+                        <div class="thumbnail-item">
+                            <span class="title">09. Diverging</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/09.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail thumbnail-active" onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/09.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="09. Diverging"
+                                 
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/09.R">
+                         </div>    
+                         
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">11. Stripes</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/11.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail thumbnail-active" onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/11.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="11. Stripes"
+                                 
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/11.R">
+                         </div>    
+       
+       
+       
+       
+       
+       </div>
+                  </div>
+
+<div class="thumbnail-row">
+                    <span class="week-label">Relationships</span>
+                    <div class="thumbnail-group-scroll">
+                        
+                        <div class="thumbnail-item">
+                            <span class="title">14. Kinship</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/14.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail thumbnail-active" onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/14.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="14. Kinship"
+                                 
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/14.R">
+                         </div>    
+           
+           
+            
+       </div>
+                  </div>
+
+<div class="thumbnail-row">
+                    <span class="week-label">Timeseries</span>
+                    <div class="thumbnail-group-scroll">              
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">19. Smooth</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/19.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail thumbnail-active" onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/19.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="19. Smooth"
+                                 
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/19.R">
+                         </div>    
+                         
+                         
+                        
+                        </div>
+                  </div>
+
+<div class="thumbnail-row">
+                    <span class="week-label">Uncertainties</span>
+                    <div class="thumbnail-group-scroll">              
+                         
+                         <div class="thumbnail-item">
+                            <span class="title">28. Inclusion</span>          
+                            <img src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/28.png"
+                                 alt="Thumbnail Slope"
+                                 class="thumbnail thumbnail-active" onclick="changeImage(this)"
+                                 data-large-src="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Images/28.png"
+                                 data-author="Fazila Sadia"
+                                 data-title="28. Inclusion"
+                                 
+                                 data-url="https://raw.githubusercontent.com/fazilasadia/30DayChartChallenge/main/2025/Scripts/28.R">
+                         </div>    
+       
+                  </div>
+                  </div>
+                </div>
+                </div>
+                
+                </main>
+
+
+```
+>>>>>>> Stashed changes
