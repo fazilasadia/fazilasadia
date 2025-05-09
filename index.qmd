@@ -13,7 +13,7 @@ format:
   html:
     link-external-newwindow: true
     css: styles.css
-embed-resources: true
+embed-resources: false
 ---
 
 ::::: container

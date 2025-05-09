@@ -4,10 +4,8 @@ format:
   html:
     link-external-newwindow: true
     css: style.css
-embed-resources: true
+embed-resources: false
 ---
-<<<<<<< Updated upstream
-=======
 ```{=html}
 
 <main>
@@ -209,4 +207,3 @@ embed-resources: true
 
 
 ```
->>>>>>> Stashed changes

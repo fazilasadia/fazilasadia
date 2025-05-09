@@ -3,16 +3,23 @@
   src: url('canb.ttf') format('truetype'); /* Ensure the path and format are correct */
 }
 
-
+<<<<<<< Updated upstream
+=======
 
 /* Apply the gradient animation to the body */
+>>>>>>> Stashed changes
 body {
   margin: 0;
   height: 100vh;
   font-family: Georgia, Sans-Serif;
   justify-content: center;
   align-items: center;
+<<<<<<< Updated upstream
+  color: beige;
+  background-color: pink;
   
+=======
+>>>>>>> Stashed changes
 }
 
 
@@ -23,7 +30,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+<<<<<<< Updated upstream
+  background-color: blue;
+=======
 *//*  background-color: transparent;  */
+>>>>>>> Stashed changes
 }
 
 .text {
@@ -60,27 +71,27 @@ body {
 
 
 
-
 /* navbar */.navbar-title {  font-family: Sans-Serif;}
 
 .navbar-dark .navbar-brand {
   text-align: right;
-  color: black;
 }
 
 
 .navbar-nav{
   margin-right: 50px;
   margin-left: 50px;
-  color: black;
-  
+
   /* Adjust the value as needed */
 }
 
 .navbar-nav .nav-item{
   padding-left: 10px;
   padding-right: 10px;
-  color: black;
+<<<<<<< Updated upstream
+  color: blue;
+=======
+>>>>>>> Stashed changes
   font-family: Georgia, serif;
   font-size: 20px;
 } 
