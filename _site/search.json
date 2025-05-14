@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "A Big Heading",
+    "title": "",
     "section": "",
-    "text": "Fazila Sadia\n\n\nData Visualization and Information Design\n\n\n\nA Big Heading\n\n Visualization Gallery\n\n\n Vistales Website\n\n\n\nDashboards in Power BI\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Fazila Sadia\n\n\nData Visualization and Information Design"
   },
   {
     "objectID": "library/hello.html",
@@ -33,5 +33,12 @@
     "title": "A Big Heading",
     "section": "Another Big Heading",
     "text": "Another Big Heading\nSome Heading\n\n Visualization Gallery\n\n\n Vistales Website"
+  },
+  {
+    "objectID": "index.html#dashboards-in-power-bi",
+    "href": "index.html#dashboards-in-power-bi",
+    "title": "",
+    "section": "Dashboards in Power BI",
+    "text": "Dashboards in Power BI\n\nDashboards in Power BI\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales"
   }
 ]

@@ -2,6 +2,13 @@ project:
   type: website
   
 website:
+  cookie-consent:
+    type: express
+    style: simple
+    palette: dark
+  google-analytics:
+    tracking-id: "G-X7Q4RX6KPB"
+    anonymize-ip: true
 
   navbar:
     background: "transparent"
@@ -29,5 +36,8 @@ format:
   html:
     css: styles.css
     toc: false
-    include-in-header: my-header-scripts.html
+    include-in-header: 
+      my-header-scripts.html
+      gtm_code_head.html
+
     include-after-body: my-footer-scripts.html
