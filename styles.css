@@ -4,7 +4,10 @@
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 
 /* Apply the gradient animation to the body */
 >>>>>>> Stashed changes
@@ -15,9 +18,12 @@ body {
   justify-content: center;
   align-items: center;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   color: beige;
   background-color: pink;
   
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 }
@@ -31,7 +37,11 @@ body {
   justify-content: center;
   align-items: center;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   background-color: blue;
+=======
+*//*  background-color: transparent;  */
+>>>>>>> Stashed changes
 =======
 *//*  background-color: transparent;  */
 >>>>>>> Stashed changes
@@ -89,7 +99,10 @@ body {
   padding-left: 10px;
   padding-right: 10px;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   color: blue;
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   font-family: Georgia, serif;

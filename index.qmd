@@ -32,6 +32,7 @@ Data Visualization and Information Design
 
 ::: {.grid .grid-cols-3 .gap-4 .mt-5 .px-5}
 
+# **A Big Heading**
 
 ::: {.card .shadow}
 [![Gallery](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsbflHQo6046Au1rdtwzjeX31sGbnZiNC2b5tmEW16aWMNLy69JT11EnXV7DFJSO9Zus&usqp=CAU)](gallery.qmd)
@@ -43,4 +44,21 @@ Data Visualization and Information Design
 **Vistales Website**
 :::
 
+:::
+::: {.grid .grid-cols-3 .gap-4 .mt-5 .px-5}
+# **Dashboards in Power BI**
+::: {.card .shadow}
+[![Gallery](https://raw.githubusercontent.com/fazilasadia/Power-bi/refs/heads/main/HR%20Attrition/hrattrition.PNG)](https://github.com/fazilasadia/Power-bi/tree/main/HR%20Attrition)
+**HR Attrition**
+:::
+
+::: {.card .shadow}
+[![External](https://raw.githubusercontent.com/fazilasadia/Power-bi/refs/heads/main/ChildMortality/Capture.PNG)](https://github.com/fazilasadia/Power-bi/tree/main/ChildMortality){target=_blank}
+**Child Mortality**
+:::
+
+::: {.card .shadow}
+[![External](https://raw.githubusercontent.com/fazilasadia/Power-bi/refs/heads/main/sales/sales.PNG)](https://github.com/fazilasadia/Power-bi/tree/main/sales){target=_blank}
+**Superstore Sales**
+:::
 :::

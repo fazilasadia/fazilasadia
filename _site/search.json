@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "A Big Heading",
     "section": "",
-    "text": "Fazila Sadia\n\n\nData Visualization and Information Design\n\n\n\n\n Visualization Gallery\n\n\n Vistales Website\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Fazila Sadia\n\n\nData Visualization and Information Design\n\n\n\nA Big Heading\n\n Visualization Gallery\n\n\n Vistales Website\n\n\n\nDashboards in Power BI\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "library/hello.html",
@@ -26,5 +26,12 @@
     "title": "30DayChartChallenge",
     "section": "",
     "text": "30DayChartChallenge\n            Gallery ✴ 2025\n        \n\n\n        \n\n            \n                \n            \n\n            \n                Author Name, 2025\n                Image Title\n                Dimensions\n                Extra Info\n                 \n                        link R Code\n                    \n                \n            \n\n            \n\n                \n                    Comparisons\n                    \n                        \n                        \n                            02. Slope          \n                            \n                         \n                         \n                         \n                            03. Circular          \n                            \n                         \n                         \n                         \n                            04. Big or Small          \n                            \n                         \n                         \n                         \n                            05. Ranks          \n                            \n                         \n                         \n                         \n                            06. Florence Nightingale          \n                            \n                         \n\n       \n                  \n\n\n                    Distributions\n                    \n                        \n                        \n                            09. Diverging          \n                            \n                             \n                         \n                         \n                         \n                            11. Stripes          \n                            \n                             \n       \n       \n       \n       \n       \n       \n                  \n\n\n                    Relationships\n                    \n                        \n                        \n                            14. Kinship          \n                            \n                             \n           \n           \n            \n       \n                  \n\n\n                    Timeseries\n                                  \n                         \n                         \n                            19. Smooth          \n                            \n                             \n                         \n                         \n                        \n                        \n                  \n\n\n                    Uncertainties\n                                  \n                         \n                         \n                            28. Inclusion"
+  },
+  {
+    "objectID": "index.html#another-big-heading",
+    "href": "index.html#another-big-heading",
+    "title": "A Big Heading",
+    "section": "Another Big Heading",
+    "text": "Another Big Heading\nSome Heading\n\n Visualization Gallery\n\n\n Vistales Website"
   }
 ]
