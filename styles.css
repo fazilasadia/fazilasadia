@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: "cd";
   src: url('canb.ttf') format('truetype'); /* Ensure the path and format are correct */
@@ -42,19 +43,6 @@ body {
 }
 
 
-
-.grid {
-  font-family: Garamond;
-  font-size: 1.5vw;
-  font-weight: light;
-  color: black;
-  position: relative;
-  top: 380px;
-  text-align: justify-content;
-}
-
-
-
 /* navbar */.navbar-title {  font-family: Sans-Serif;}
 
 .navbar-dark .navbar-brand {
@@ -89,9 +77,20 @@ body {
   transform: scale(1.03);
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
+.grid {
+  font-family: Garamond;
+  font-size: 1.5vw;
+  font-weight: light;
+  color: black;
+  position: relative;
+  top: 380px;
+  text-align: justify-content;
+}
+
 .grid {
   display: grid;
-  margin-bottom: 100px; /* Space at bottom */
+  margin-bottom: 100px;/* Space at bottom */
 }
 .grid-cols-3 {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -103,11 +102,10 @@ body {
   margin-top: 2rem;
 }
 .px-5 {
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: 4rem;
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
+  padding-bottom: 3rem;
 }
-
 
 
 .footer {
@@ -117,6 +115,7 @@ body {
   bottom: 0;
   font-family: Georgia, serif;
 }
+
 
 .page-footer-title {
   position: relative;

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Fazila Sadia\n\n\nData Visualization and Information Design"
+    "text": "Fazila Sadia\n\n\nData Visualization and Information Design\n\n\n\n\n\n\n\n\n\n Visualization Gallery\n\n\n Vistales Website\n\n\n\n\n\n\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "library/hello.html",
@@ -40,5 +40,12 @@
     "title": "",
     "section": "Dashboards in Power BI",
     "text": "Dashboards in Power BI\n\nDashboards in Power BI\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales"
+  },
+  {
+    "objectID": "index.html#some-more-text",
+    "href": "index.html#some-more-text",
+    "title": "",
+    "section": "Some More TExt",
+    "text": "Some More TExt\n\n:::{#Some Heading}\n\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n::::\n:::::"
   }
 ]

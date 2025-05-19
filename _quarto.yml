@@ -7,7 +7,7 @@ website:
     style: simple
     palette: dark
   google-analytics:
-    tracking-id: "G-X7Q4RX6KPB"
+    tracking-id: "G-PDNERYD0X5"
     anonymize-ip: true
 
   navbar:
@@ -37,7 +37,6 @@ format:
     css: styles.css
     toc: false
     include-in-header: 
-      my-header-scripts.html
+      #my-header-scripts.html
       gtm_code_head.html
-
     include-after-body: my-footer-scripts.html
