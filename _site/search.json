@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Fazila Sadia\n\n\nData Visualization and Information Design\n\n\n\n\n\n\n\n\n\n Visualization Gallery\n\n\n Vistales Website\n\n\n\n\n\n\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Fazila Sadia\n\n\nData Visualization and Information Design\n\n\n\n\n Visualization Gallery\n\n\n Vistales Website\n\n\n\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "library/hello.html",
@@ -47,5 +47,19 @@
     "title": "",
     "section": "Some More TExt",
     "text": "Some More TExt\n\n:::{#Some Heading}\n\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales\n\n::::\n:::::"
+  },
+  {
+    "objectID": "index.html#hello-1",
+    "href": "index.html#hello-1",
+    "title": "Hello",
+    "section": "Hello",
+    "text": "Hello\nHype\n\n\n Visualization Gallery\n\n\n Vistales Website"
+  },
+  {
+    "objectID": "index.html#hello-3",
+    "href": "index.html#hello-3",
+    "title": "Hello",
+    "section": "Hello",
+    "text": "Hello\nHype\n\n\n HR Attrition\n\n\n Child Mortality\n\n\n Superstore Sales"
   }
 ]

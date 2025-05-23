@@ -28,11 +28,7 @@ Data Visualization and Information Design
 :::
 
 :::::
-##############
 
-:::{#Highlights}
-
-:::
 
 :::: {.grid .grid-cols-3 .gap-4 .mt-5 .px-5 style="background-color:#f0e4fc;"}
 
@@ -47,11 +43,6 @@ Data Visualization and Information Design
 :::
 
 ::::
-
-
-:::{#Highlights}
-
-:::
 
 :::: {.grid .grid-cols-3 .gap-4 .mt-5 .px-5 style="background-color:#fce4ec; color:#000;"}
 
